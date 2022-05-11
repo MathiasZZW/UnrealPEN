@@ -1,3 +1,3 @@
 # UnrealPEN
 
-Use Arduino and self make PEN control Unreal world or 3D world
+Use self make PEN control Unreal world or real 3D world
